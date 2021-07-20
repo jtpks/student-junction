@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Journal</string>
+    <string name="manualtext">What is this app?\n\nStudent Junction is an app made by Jahnavi Thejo Prakash, currently in high school, made for students. This app collates useful features for students.\n\nThis boosts students to focus, plan and utilise their time effectively. In other words, the app should help students successfully complete their assignments and avoid procrastination.</string>
+    <string name="manual2text">What is in this app?\n\nThe app has four main sections: calendar, todo, notes, quotes.</string>
+    <string name="manual3text">Quotes\n\nIn the quotes tab, you can read few inspirational/motivational quotes. This will help you to motivate and achieve your goals.</string>
+    <string name="manual4text">Calendar\n\nCalendar helps you plan your tasks.</string>
+    <string name="manual5text">ToDo\n\nToDo helps you create new tasks and track which tasks are completed.</string>
+    <string name="manual6text">Notes\n\nNotes is used to capture all the fun ideas and creative thoughts, which can occur at anytime. You can put quick tips as reference for exam review</string>
+</resources>
